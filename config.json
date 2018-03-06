@@ -12,11 +12,7 @@
     "demo_sites": {"student": {"url": "https://school.demo.moodle.net", "username": "student", "password": "moodle"}, "teacher": {"url": "https://school.demo.moodle.net", "username": "teacher", "password": "moodle"}},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": [
-        {"name": "Campus Virtual 1", "url": "http://campusvirtual1.sabes.edu.mx/"},
-        {"name": "Campus Virtual 2", "url": "http://campusvirtual2.sabes.edu.mx/"},
-        {"name": "Campus Virtual 3", "url": "http://campusvirtual3.sabes.edu.mx/"}
-    ],
+    "siteurl": "",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
