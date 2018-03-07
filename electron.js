@@ -9,7 +9,7 @@ const os = require('os');
 // Keep a global reference of the window object, if you don't, the window will
 // be closed automatically when the JavaScript object is garbage collected.
 let mainWindow,
-    appName = 'Moodle Desktop', // Default value.
+    appName = 'Sabes Cursos', // Default value.
     isReady = false,
     configRead = false;
 

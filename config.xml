@@ -5,10 +5,10 @@
         id        = "mx.edu.sabes.plataforma"
         versionCode = "20220"
         version   = "3.4.1">
-    <name>SABES Plataforma</name>
+    <name>SABES Cursos</name>
 
     <description>
-        SABES Plataforma
+        SABES Cursoss
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
