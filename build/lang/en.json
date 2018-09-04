@@ -613,7 +613,7 @@
     "mm.login.missinglastname": "Falta apellido(s)",
     "mm.login.mobileservicesnotenabled": "El acceso Mobile no está habilitado en su sitio. Por favor, contacte a su administrador del sitio si Usted piensa que se debería habilitar.",
     "mm.login.newaccount": "Nueva cuenta",
-    "mm.login.newsitedescription": "Por favor escribe la URL del campus virtual al que deseas ingresar. Por ejemplo: http://campusvirtual1.sabes.edu.mx , http://campusbachillerato.sabes.edu.mx/",
+    "mm.login.newsitedescription": "Por favor escribe la URL del campus virtual al que deseas ingresar. Por ejemplo: http://campusuniversidad.sabes.edu.mx , http://campusbachillerato.sabes.edu.mx/",
     "mm.login.notloggedin": "Usted necesita estar ingresado.",
     "mm.login.password": "Contraseña",
     "mm.login.passwordforgotten": "Contraseña olvidada",
